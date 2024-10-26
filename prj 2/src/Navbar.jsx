@@ -2,7 +2,7 @@ import { Button } from '@mui/material';
 function Navbar() {
     return (
         <> 
-            <div id='imgdiv' style={{display:'flex', justifyContent:'space-between'}}>
+            <div id='imgdiv' style={{display:'flex', justifyContent:'space-between',marginTop:'2%'}}>
                 <div>
                     <img style={{width:'50px', marginLeft:'30%'}} src="https://logos-world.net/wp-content/uploads/2020/04/Nike-Logo.png" alt="nikelogo" />
                 </div>
